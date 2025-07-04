@@ -1,6 +1,6 @@
-base_url = "https://bitdevscordoba.github.io"
-title = "BitDevs Córdoba"
-description = "BitDevs Córdoba es una comunidad en el área de Córdoba Capital para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos relacionados."
+base_url = "https://bitdevsmadrid.github.io"
+title = "BitDevs Madrid"
+description = "BitDevs Madrid es una comunidad en Madrid para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos relacionados."
 compile_sass = true
 generate_feeds = true
 feed_filenames = ["atom.xml", "rss.xml"]
@@ -12,6 +12,6 @@ external_links_target_blank = true
 
 [extra]
 icons = [
-  {icon = "github", link = "https://github.com/bitdevscordoba/bitdevscordoba.github.io"}
+  {icon = "github", link = "https://github.com/bitdevsmadrid/bitdevsmadrid.github.io"}
 ]
 
