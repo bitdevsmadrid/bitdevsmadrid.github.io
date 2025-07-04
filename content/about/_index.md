@@ -32,11 +32,11 @@ Bitcoin para aprovechar al máximo nuestros eventos Socráticos.
 
 Por favor, si te gustaría presentar un futuro evento Socrático o tienes
 recomendaciones sobre temas para discutir abre una Issue en el repositorio
-[bitdevscordoba.org]. Los requerimientos a las presentaciones varían de acuerdo
+[bitdevsmadrid.org]. Los requerimientos a las presentaciones varían de acuerdo
 con la naturaleza del proyecto. Revisa nuestra lista de [donde encontrar temas]
 para futuros seminarios.
 
 [Seminarios Socráticos]: https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar
-[bitdevscordoba.org]: https://github.com/bitdevscordoba/bitdevscordoba.github.io/issues
+[bitdevsmadrid.org]: https://github.com/bitdevsmadrid/bitdevsmadrid.github.io/issues
 [BitDevs NYC]: https://bitdevs.org
 [donde encontrar temas]: /about/find-topics
