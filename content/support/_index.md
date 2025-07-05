@@ -7,7 +7,7 @@ Agradecemos a quienes nos brindan su apoyo y hacen posibles estos eventos, aport
 
 Agradecemos especialmente a los asistentes por su participación, que motiva a organizar estos eventos y fomentar la investigación y el desarrollo dedicados a Bitcoin en el área de Madrid.
 
-Si te gustaría apoyar el proyecto mediante una donación, por favor, contáctanos por correo a [todo@todo.com](mailto:todo@todo.com).
+Si te gustaría apoyar el proyecto mediante una donación, por favor, contáctanos por correo a [hola@bitdevsmadrid.org](mailto:hola@bitdevsmadrid.org).
 
 <br>
 <br>

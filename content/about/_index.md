@@ -3,8 +3,8 @@ title = "About"
 description = "Todo sobre este sitio"
 +++
 
-BitDevs Córdoba se inspira en el original [BitDevs NYC] para ayudar a hacer
-crecer la comunidad en el área de Córdoba Capital para aquellos interesados en
+BitDevs Madrid se inspira en el original [BitDevs NYC] para ayudar a hacer
+crecer la comunidad en el área de Madrid para aquellos interesados en
 discutir y participar en la investigación y desarrollo de Bitcoin y protocolos
 relacionados. Puedes tener un buen conocimiento de los temas o ser nuevo en
 ellos, todos son bienvenidos. Ten en cuenta: la discusión será técnica.

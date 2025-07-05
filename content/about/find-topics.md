@@ -6,7 +6,7 @@ description = "¿Dónde encontrar temas para futuros seminarios?"
 #### Donde encontrar temas para futuros seminarios
 
 Abajo encontraras una lista de recursos sugeridos para encontrar temas
-interesantes para tratar en los encuentros Socráticos de BitDevs Córdoba.
+interesantes para tratar en los encuentros Socráticos de BitDevs Madrid.
 Haznos saber si conoces algún otro.
 
 ### Listas de correo, listas de distribución de noticias, Q&As
