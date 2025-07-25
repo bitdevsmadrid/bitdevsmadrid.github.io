@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevs Madrid</title>
+      <link>https://bitdevsmadrid.github.io</link>
+      <description>BitDevs Madrid es una comunidad en Madrid para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos relacionados.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://bitdevsmadrid.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Seminario Socrático #0</title>
+          <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsmadrid.github.io/socratic-seminar-0/</link>
+          <guid>https://bitdevsmadrid.github.io/socratic-seminar-0/</guid>
+          <description xml:base="https://bitdevsmadrid.github.io/socratic-seminar-0/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:30hs Bienvenida&lt;br &#x2F;&gt;
+19:00hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin&lt;br &#x2F;&gt;
+20:00hs Cierre&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacion&quot;&gt;Ubicación&lt;&#x2F;h3&gt;
+&lt;p&gt;El evento se organiza en ...&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncios&quot;&gt;Anuncios&lt;&#x2F;h3&gt;
+&lt;p&gt;Estamos muy felices de introducir nuestro primer &lt;a href=&quot;&#x2F;about&quot;&gt;Seminario Socrático&lt;&#x2F;a&gt;!
+Un especial agradecimiento a nuestro sponsor &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; por las bebidas.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No se permiten fotografías, vídeos o grabaciones de audio&lt;&#x2F;li&gt;
+&lt;li&gt;Nos adherimos a &quot;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;the Chatham House Rule&lt;&#x2F;a&gt;&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;Deja el espacio del encuentro tan limpio como lo encontraste.&lt;&#x2F;li&gt;
+&lt;li&gt;Sugiere temas para el siguiente Seminario Socrático! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;¿Donde encontrar temas para futuros seminarios?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;&quot;&gt;utxo.live&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcointreasuries.net&#x2F;&quot;&gt;bitcointreasuries.net&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;stratum.work&#x2F;&quot;&gt;stratum.work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin-data.github.io&#x2F;non-standard-transactions&#x2F;&quot;&gt;non standard txs dataset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;mining-pools-centralization-index-with-proxy-pools&#x2F;?c&quot;&gt;mining centralization index&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temas&quot;&gt;Temas&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;frost&quot;&gt;FROST&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;03&#x2F;21&#x2F;#frostr-protocol-announced&quot;&gt;FROSTR library for k-of-n signing and key management on nostr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;01&#x2F;03&#x2F;#updated-chilldkg-draft&quot;&gt;Updated ChillDKG draft for distributed key generation for FROST&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;post-quantum&quot;&gt;Post-Quantum&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;uEaf4bj07rE&quot;&gt;A Post Quantum Migration Proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=GeUdu4hrBPI&quot;&gt;Video: Quantum Bitcoin Summit Day 1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=feMWrdJnLak&quot;&gt;Video: Quantum Bitcoin Summit Day 2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;post-quantum-hd-wallets-silent-payments-key-aggregation-and-threshold-signatures&#x2F;1854&quot;&gt;Post-Quantum HD-Wallets, Silent Payments, Key Aggregation, and Threshold Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;eventos&quot;&gt;Eventos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;noticias&quot;&gt;Noticias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;vulnerabilidades&quot;&gt;Vulnerabilidades&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;repositorios&quot;&gt;Repositorios&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PRs, issues...&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recursos&quot;&gt;Recursos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin Optech Newsletter &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;07&#x2F;18&#x2F;&quot;&gt;#363&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
