@@ -25,45 +25,40 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - Deja el espacio del encuentro tan limpio como lo encontraste.
 - Sugiere temas para el siguiente Seminario Socrático! [¿Donde encontrar temas para futuros seminarios?](/about/find-topics)
 
-### Temas
-
-#### Estadísticas de la Red
+### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
 - [clarkmoody.com](https://bitcoin.clarkmoody.com/dashboard/)
-  
-#### Eventos
+- [utxo.live](https://utxo.live/)
+- [bitcointreasuries.net](https://bitcointreasuries.net/)
+- [stratum.work](https://stratum.work/)
+- [non standard txs dataset](https://bitcoin-data.github.io/non-standard-transactions/)
+- [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
+
+### Temas
+
+#### FROST
+- [Frostsnap signing devices support k-of-n threshold signing](https://bitcoinops.org/en/newsletters/2025/07/18/#frost-signing-device-available)
+- [FROSTR library for k-of-n signing and key management on nostr](https://bitcoinops.org/en/newsletters/2025/03/21/#frostr-protocol-announced)
+- [Updated ChillDKG draft for distributed key generation for FROST](https://bitcoinops.org/en/newsletters/2025/01/03/#updated-chilldkg-draft)
+
+#### Post-Quantum
+- [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
+- [Video: Quantum Bitcoin Summit Day 1](https://www.youtube.com/watch?v=GeUdu4hrBPI)
+- [Video: Quantum Bitcoin Summit Day 2](https://www.youtube.com/watch?v=feMWrdJnLak)
+- [Post-Quantum HD-Wallets, Silent Payments, Key Aggregation, and Threshold Signatures](https://delvingbitcoin.org/t/post-quantum-hd-wallets-silent-payments-key-aggregation-and-threshold-signatures/1854)
+
+
+### Eventos
 - TBD
 
-#### Noticias
+### Noticias
 - TBD
 
-#### Lanzamientos
+### Vulnerabilidades
 - TBD
 
-#### Bitcoin Core
-- TBD
-
-#### Hardware wallets
-- TBD
-
-#### Minería
-- TBD
-
-#### Lightning
-- TBD
-
-#### Silent Payments
-- TBD
-
-#### Revelación de vulnerabilidades
-- TBD
-
-#### Repositorios
+### Repositorios
 - PRs, issues...
 
-#### Recursos
-- TBD
-
-#### Curiosidades
-- TBD
-
+### Recursos
+- Bitcoin Optech Newsletter [#363](https://bitcoinops.org/en/newsletters/2025/07/18/)
