@@ -37,7 +37,6 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 ### Temas
 
 #### FROST
-- [Frostsnap signing devices support k-of-n threshold signing](https://bitcoinops.org/en/newsletters/2025/07/18/#frost-signing-device-available)
 - [FROSTR library for k-of-n signing and key management on nostr](https://bitcoinops.org/en/newsletters/2025/03/21/#frostr-protocol-announced)
 - [Updated ChillDKG draft for distributed key generation for FROST](https://bitcoinops.org/en/newsletters/2025/01/03/#updated-chilldkg-draft)
 
