@@ -36,10 +36,6 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 ### Temas
 
-#### FROST
-- [FROSTR library for k-of-n signing and key management on nostr](https://bitcoinops.org/en/newsletters/2025/03/21/#frostr-protocol-announced)
-- [Updated ChillDKG draft for distributed key generation for FROST](https://bitcoinops.org/en/newsletters/2025/01/03/#updated-chilldkg-draft)
-
 #### Post-Quantum
 - [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
 - [Video: Quantum Bitcoin Summit Day 1](https://www.youtube.com/watch?v=GeUdu4hrBPI)
