@@ -61,4 +61,5 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - [embit#102 - [New Feature] Add BIP-353 support](https://github.com/diybitcoinhardware/embit/pull/102)
 
 ### Recursos
-- Bitcoin Optech Newsletter [#363](https://bitcoinops.org/en/newsletters/2025/07/18/)
+- Bitcoin Optech Newsletter [#367](https://bitcoinops.org/en/newsletters/2025/08/15/)
+- Bitcoin Optech Newsletter [#368](https://bitcoinops.org/en/newsletters/2025/08/22/)
