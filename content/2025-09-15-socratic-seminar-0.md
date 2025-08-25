@@ -63,3 +63,4 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 ### Recursos
 - Bitcoin Optech Newsletter [#367](https://bitcoinops.org/en/newsletters/2025/08/15/)
 - Bitcoin Optech Newsletter [#368](https://bitcoinops.org/en/newsletters/2025/08/22/)
+- [Quantum Bitcoin Summit - Presentation Slides and Videos by Anthony Milton](https://pq-bitcoin.org/)
