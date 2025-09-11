@@ -38,9 +38,7 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 #### Post-Quantum
 - [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
-- [Video: Quantum Bitcoin Summit Day 1](https://www.youtube.com/watch?v=GeUdu4hrBPI)
-- [Video: Quantum Bitcoin Summit Day 2](https://www.youtube.com/watch?v=feMWrdJnLak)
-- [Post-Quantum HD-Wallets, Silent Payments, Key Aggregation, and Threshold Signatures](https://delvingbitcoin.org/t/post-quantum-hd-wallets-silent-payments-key-aggregation-and-threshold-signatures/1854)
+- [Quantifying Bitcoin's Quantum Vulnerability - Part 1](https://pq-bitcoin.org/posts/bitcoin-qva-1)
 
 #### Minimum Relay Feerate
 - [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
@@ -48,19 +46,19 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
 
 ### Eventos
-- TBD
+- [Watch Out, Bitcoin! 2025](https://wobitcoin.org/)
 
 ### Noticias
 - TBD
 
 ### Vulnerabilidades
-- TBD
+- [Anatomy of a Billion-Download NPM Supply-Chain Attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
 
 ### Repositorios, PRs, Issues...
-- [drongo#1667 - BIP 353 Resolution and PSBT Inclusion](https://github.com/sparrowwallet/sparrow/issues/1667)
+- [Nuevo indexador Electrum de Sparrow Wallet con escaneo de Silent Payments](https://github.com/sparrowwallet/frigate)
 - [embit#102 - [New Feature] Add BIP-353 support](https://github.com/diybitcoinhardware/embit/pull/102)
+- [seedsigner#798 - [Feature] Add BIP-353 proof validation](https://github.com/SeedSigner/seedsigner/pull/798)
 
 ### Recursos
-- Bitcoin Optech Newsletter [#367](https://bitcoinops.org/en/newsletters/2025/08/15/)
-- Bitcoin Optech Newsletter [#368](https://bitcoinops.org/en/newsletters/2025/08/22/)
-- [Quantum Bitcoin Summit - Presentation Slides and Videos by Anthony Milton](https://pq-bitcoin.org/)
+- Bitcoin Optech Newsletter [#369](https://bitcoinops.org/en/newsletters/2025/08/29/)
+- Bitcoin Optech Newsletter [#370](https://bitcoinops.org/en/newsletters/2025/09/05/)
