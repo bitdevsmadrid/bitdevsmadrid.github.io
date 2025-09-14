@@ -36,25 +36,31 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 ### Temas
 
+### Eventos
+- [Watch Out, Bitcoin! 2025](https://wobitcoin.org/)
+
+### Formación
+- [B4OS](https://b4os.dev/)
+
 #### Post-Quantum
-- [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
 - [Quantifying Bitcoin's Quantum Vulnerability - Part 1](https://pq-bitcoin.org/posts/bitcoin-qva-1)
+- [Top 100 Quantum Rekt Wallets](https://quantumrekt.com/top100)
+- [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
 
 #### Minimum Relay Feerate
 - [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
 - [#33106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
 - [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
 
-### Eventos
-- [Watch Out, Bitcoin! 2025](https://wobitcoin.org/)
 
 ### Noticias
-- TBD
+- [Provable cryptography workbook](https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974)
 
 ### Vulnerabilidades
 - [Anatomy of a Billion-Download NPM Supply-Chain Attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
 
 ### Repositorios, PRs, Issues...
+- [Bitcoin Core 30.0rc1](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/v30.0-Release-Notes-Draft)
 - [Nuevo indexador Electrum de Sparrow Wallet con escaneo de Silent Payments](https://github.com/sparrowwallet/frigate)
 - [embit#102 - [New Feature] Add BIP-353 support](https://github.com/diybitcoinhardware/embit/pull/102)
 - [seedsigner#798 - [Feature] Add BIP-353 proof validation](https://github.com/SeedSigner/seedsigner/pull/798)
@@ -62,3 +68,4 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 ### Recursos
 - Bitcoin Optech Newsletter [#369](https://bitcoinops.org/en/newsletters/2025/08/29/)
 - Bitcoin Optech Newsletter [#370](https://bitcoinops.org/en/newsletters/2025/09/05/)
+- Bitcoin Optech Newsletter [#371](https://bitcoinops.org/en/newsletters/2025/09/12/)
