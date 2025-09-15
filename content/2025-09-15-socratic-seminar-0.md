@@ -11,7 +11,13 @@ template = "post.html"
 
 ### Ubicación
 
-El evento se organiza en Madrid Innovation Lab, C/ Bravo Murillo 39 
+El evento se organiza en Madrid Innovation Lab, C/ Bravo Murillo 39. 
+
+Instrucciones para llegar:
+1. Accede al patio en el que se ve al fondo la iglesia.
+2. Camina del lado izquierdo de los soportales (con la igulesia de frente) hasta la segunda entrada a la izquierda.
+3. Gira a la izquierda y camina hasta el fondo de la calle.
+4. Gira nuevamente a la izquierda y verás la entrada al centro de Madrid International Lab.
 
 ### Anuncios
 
