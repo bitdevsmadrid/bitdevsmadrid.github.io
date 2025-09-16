@@ -22,7 +22,7 @@ Instrucciones para llegar:
 ### Anuncios
 
 Estamos muy felices de introducir nuestro primer [Seminario Socrático](/about)!
-Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas.
+Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas y a [Madrid Innovation Lab](https://milmadrid.es/) por la sala.
 
 ### Recordatorios
 
