@@ -3,11 +3,11 @@ title = "Seminario Socrático #1"
 template = "post.html"
 +++
 
-### Agenda
+### Agenda (provisional)
 
 18:00hs Bienvenida\
 18:30hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin\
-19:45hs Cierre
+20:00hs Cierre
 
 ### Ubicación
 
@@ -15,7 +15,7 @@ El evento se organiza en Jamón Market, C/ Alcántara 14 Madrid
 
 ### Anuncios
 
-Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas y a [Jamon Market](http://jamonmarket.es/) por el sitio.
+Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas y a [Jamón Market](http://jamonmarket.es/) por el espacio.
 
 ### Recordatorios
 
@@ -35,22 +35,26 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 ### Temas
 
-TBD
+- [\[BIP Proposal\] Limit ScriptPubkey Size >= 520 Bytes Consensus](https://groups.google.com/g/bitcoindev/c/YO8ZwnG_ISs)
+- [Theoretical limitations on embedding data in the UTXO set](https://groups.google.com/g/bitcoindev/c/6XZX93ZaUh0)
 
 ### Eventos
-- TBD
+- [Tabconf 7](https://7.tabconf.com/)
+- [LABITCONF](https://labitconf.com/)
 
 ### Formación
 - TBD
 
 ### Noticias
-- TBD
+- [TROPIC01 - Elemento Seguro OSS de Tropic Square](https://x.com/tropicsquare/status/1975260178728517809)
 
 ### Vulnerabilidades
-- TBD
+- [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
 
 ### Repositorios, PRs, Issues...
-- TBD
+- [Bitcoin Core v30.0](https://github.com/bitcoin/bitcoin/releases/tag/v30.0rc2)
+- [bitcoin#22453 - docs: Undeprecate datacarrier and datacarriersize configuration options](https://github.com/bitcoin/bitcoin/pull/33453)
+- [Sparrow Wallet 2.3.0 - BIP353 HRNs & Silent Payments](https://github.com/sparrowwallet/sparrow/releases/tag/2.3.0)
 
 ### Recursos
-- TBD
+- [Bitcoin Optech Newsletter #375](https://bitcoinops.org/en/newsletters/2025/10/10/)
