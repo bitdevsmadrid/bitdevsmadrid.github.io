@@ -37,6 +37,7 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 - [\[BIP Proposal\] Limit ScriptPubkey Size >= 520 Bytes Consensus](https://groups.google.com/g/bitcoindev/c/YO8ZwnG_ISs)
 - [Theoretical limitations on embedding data in the UTXO set](https://groups.google.com/g/bitcoindev/c/6XZX93ZaUh0)
+- [MultiChannel and MultiPTLC: Towards A Global High-Availability Consistent/Partition-Tolerant Database For Bitcoin Payments](https://delvingbitcoin.org/t/multichannel-and-multiptlc-towards-a-global-high-availability-consistent-partition-tolerant-database-for-bitcoin-payments/1983)
 
 ### Eventos
 - [Tabconf 7](https://7.tabconf.com/)
@@ -47,6 +48,7 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 ### Noticias
 - [TROPIC01 - Elemento Seguro OSS de Tropic Square](https://x.com/tropicsquare/status/1975260178728517809)
+- [BIP 321 reemplaza a BIP21](https://x.com/TheBlueMatt/status/1970612483867255173)
 
 ### Vulnerabilidades
 - [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
