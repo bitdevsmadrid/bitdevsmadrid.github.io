@@ -35,6 +35,7 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 
 ### Temas
 
+- [@f3r10](https://github.com/f3r10) nos hablará de [sim-ln](https://github.com/bitcoin-dev-project/sim-ln), una herramienta que permite simular y analizar la actividad de pagos en Lightning Network para pruebas, evaluación del protocolo y generación de datos realistas.
 - [\[BIP Proposal\] Limit ScriptPubkey Size >= 520 Bytes Consensus](https://groups.google.com/g/bitcoindev/c/YO8ZwnG_ISs)
 - [Theoretical limitations on embedding data in the UTXO set](https://groups.google.com/g/bitcoindev/c/6XZX93ZaUh0)
 - [MultiChannel and MultiPTLC: Towards A Global High-Availability Consistent/Partition-Tolerant Database For Bitcoin Payments](https://delvingbitcoin.org/t/multichannel-and-multiptlc-towards-a-global-high-availability-consistent-partition-tolerant-database-for-bitcoin-payments/1983)
