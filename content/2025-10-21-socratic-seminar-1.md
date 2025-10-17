@@ -54,9 +54,10 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
 
 ### Repositorios, PRs, Issues...
-- [Bitcoin Core v30.0](https://github.com/bitcoin/bitcoin/releases/tag/v30.0rc2)
+- [Bitcoin Core v30.0](https://bitcoincore.org/en/releases/30.0/)
 - [bitcoin#22453 - docs: Undeprecate datacarrier and datacarriersize configuration options](https://github.com/bitcoin/bitcoin/pull/33453)
 - [Sparrow Wallet 2.3.0 - BIP353 HRNs & Silent Payments](https://github.com/sparrowwallet/sparrow/releases/tag/2.3.0)
 
 ### Recursos
 - [Bitcoin Optech Newsletter #375](https://bitcoinops.org/en/newsletters/2025/10/10/)
+- [Bitcoin Optech Newsletter #376](https://bitcoinops.org/en/newsletters/2025/10/17)
