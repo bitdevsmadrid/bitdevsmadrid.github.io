@@ -3,7 +3,7 @@ title = "Seminario Socrático #1"
 template = "post.html"
 +++
 
-### Agenda (provisional)
+### Agenda
 
 18:00hs Bienvenida\
 18:30hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin\
