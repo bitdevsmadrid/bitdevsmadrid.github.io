@@ -40,6 +40,7 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - [Theoretical limitations on embedding data in the UTXO set](https://groups.google.com/g/bitcoindev/c/6XZX93ZaUh0)
 - [MultiChannel and MultiPTLC: Towards A Global High-Availability Consistent/Partition-Tolerant Database For Bitcoin Payments](https://delvingbitcoin.org/t/multichannel-and-multiptlc-towards-a-global-high-availability-consistent-partition-tolerant-database-for-bitcoin-payments/1983)
 - El problema de la centralización en la minería de Bitcoin.
+- [Ark and the train analogy: A Guide to understanding Bitcoin’s railway system](https://pakovm.substack.com/p/ark-and-the-train-analogy-a-guide)
 
 ### Eventos
 - [Tabconf 7](https://7.tabconf.com/)
@@ -51,6 +52,8 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 ### Noticias
 - [TROPIC01 - Elemento Seguro OSS de Tropic Square](https://x.com/tropicsquare/status/1975260178728517809)
 - [BIP 321 reemplaza a BIP21](https://x.com/TheBlueMatt/status/1970612483867255173)
+- [127,000 BTC Seizure: DOJ Might Have Cracked the Private Keys](https://bitcoinnews.com/legal/us-seized-127k-btc-lubian-prince-group/)
+- [Bitcoin for Signal](https://x.com/CashuBTC/status/1978853994635117043)
 
 ### Vulnerabilidades
 - [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
