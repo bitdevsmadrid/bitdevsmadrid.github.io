@@ -34,22 +34,27 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 
 ### Temas
-- TBD
+- [b10c's peer-observer: A tool and infrastructure for monitoring the Bitcoin P2P network for attacks and anomalies](https://b10c.me/projects/024-peer-observer/)
+- [(PR) BIP-444 - Reduced Data Temporary Softfork ](https://github.com/bitcoin/bips/pull/2017)
+- [Detecting block template feerate increases using cluster mempool.](https://delvingbitcoin.org/t/determining-blocktemplate-fee-increase-using-fee-rate-diagram/2052) Abubakar Sadiq Ismail publicó recientemente en Delving Bitcoin sobre la posibilidad de realizar un seguimiento del posible aumento de las tarifas en cada actualización de la mempool para proporcionar una nueva block template a los mineros solo cuando la mejora de la tasa de fees (feerate) lo justifique. Este enfoque reduciría el número de creaciones redundantes de block templates, lo que puede retrasar el procesamiento de las transacciones y su retransmisión a los pares. La propuesta aprovecha "cluster mempool" para evaluar si existe una posible mejora de la tasa de fees sin necesidad de reconstruir el block template.
+
 
 ### Eventos
-- TBD
+- [Adopting Bitcoin 2025 - San Salvador](https://sv25.adoptingbitcoin.org/es)
+- [Bitfest 2025 - Manchester](https://bitfest.uk/)
 
 ### Formación
 - TBD
 
 ### Noticias
-- TBD
+- [Lanzamiento de BULL Wallet](https://www.bullbitcoin.com/blog/bull-by-bull-bitcoin)
 
 ### Vulnerabilidades
 - TBD
 
 ### Repositorios, PRs, Issues...
-- TBD
+- [bips#2006 - BIP3: add guidance on originality, quality, LLMs](https://github.com/bitcoin/bips/pull/2006)
 
 ### Recursos
-- TBD
+- [Bitcoin Optech Newsletter #377](https://bitcoinops.org/en/newsletters/2025/10/24/)
+- [Bitcoin Optech Newsletter #378](https://bitcoinops.org/en/newsletters/2025/10/31/)
