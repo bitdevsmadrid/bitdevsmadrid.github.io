@@ -53,8 +53,9 @@ Un especial agradecimiento a nuestro sponsor [B4OS](https://www.libreriadesatosh
 - TBD
 
 ### Repositorios, PRs, Issues...
-- [bips#2006 - BIP3: add guidance on originality, quality, LLMs](https://github.com/bitcoin/bips/pull/2006)
+- BIP-0003: [Mailing list](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc) - [PR#1820](https://github.com/bitcoin/bips/pull/1820)
 
 ### Recursos
 - [Bitcoin Optech Newsletter #377](https://bitcoinops.org/en/newsletters/2025/10/24/)
 - [Bitcoin Optech Newsletter #378](https://bitcoinops.org/en/newsletters/2025/10/31/)
+- [Bitcoin Optech Newsletter #379](https://bitcoinops.org/en/newsletters/2025/11/07/)
