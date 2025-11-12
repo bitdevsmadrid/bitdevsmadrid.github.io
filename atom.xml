@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>BitDevs Madrid</title>
+    <subtitle>BitDevs Madrid es una comunidad en Madrid para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos relacionados.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://bitdevsmadrid.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://bitdevsmadrid.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-13T00:00:00+00:00</updated>
+    <id>https://bitdevsmadrid.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Seminario Socrático #2</title>
+        <published>2025-11-13T00:00:00+00:00</published>
+        <updated>2025-11-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bitdevsmadrid.github.io/socratic-seminar-2/"/>
+        <id>https://bitdevsmadrid.github.io/socratic-seminar-2/</id>
+        
+        <content type="html" xml:base="https://bitdevsmadrid.github.io/socratic-seminar-2/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00hs Bienvenida&lt;br &#x2F;&gt;
+18:30hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin&lt;br &#x2F;&gt;
+20:00hs Cierre&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacion&quot;&gt;Ubicación&lt;&#x2F;h3&gt;
+&lt;p&gt;El evento se organiza en Jamón Market, C&#x2F; Alcántara 14 Madrid&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncios&quot;&gt;Anuncios&lt;&#x2F;h3&gt;
+&lt;p&gt;Un especial agradecimiento a nuestro sponsor &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; por las bebidas y a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;jamonmarket.es&#x2F;&quot;&gt;Jamón Market&lt;&#x2F;a&gt; por el espacio.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No se permiten fotografías, vídeos o grabaciones de audio&lt;&#x2F;li&gt;
+&lt;li&gt;Nos adherimos a &quot;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;the Chatham House Rule&lt;&#x2F;a&gt;&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;Deja el espacio del encuentro tan limpio como lo encontraste.&lt;&#x2F;li&gt;
+&lt;li&gt;Sugiere temas para el siguiente Seminario Socrático! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;¿Donde encontrar temas para futuros seminarios?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;&quot;&gt;utxo.live&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcointreasuries.net&#x2F;&quot;&gt;bitcointreasuries.net&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;stratum.work&#x2F;&quot;&gt;stratum.work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin-data.github.io&#x2F;non-standard-transactions&#x2F;&quot;&gt;non standard txs dataset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;mining-pools-centralization-index-with-proxy-pools&#x2F;?c&quot;&gt;mining centralization index&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temas&quot;&gt;Temas&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;projects&#x2F;024-peer-observer&#x2F;&quot;&gt;b10c&#x27;s peer-observer: A tool and infrastructure for monitoring the Bitcoin P2P network for attacks and anomalies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2017&quot;&gt;(PR) BIP-444 - Reduced Data Temporary Softfork &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;determining-blocktemplate-fee-increase-using-fee-rate-diagram&#x2F;2052&quot;&gt;Detecting block template feerate increases using cluster mempool.&lt;&#x2F;a&gt; Abubakar Sadiq Ismail publicó recientemente en Delving Bitcoin sobre la posibilidad de realizar un seguimiento del posible aumento de las tarifas en cada actualización de la mempool para proporcionar una nueva block template a los mineros solo cuando la mejora de la tasa de fees (feerate) lo justifique. Este enfoque reduciría el número de creaciones redundantes de block templates, lo que puede retrasar el procesamiento de las transacciones y su retransmisión a los pares. La propuesta aprovecha &quot;cluster mempool&quot; para evaluar si existe una posible mejora de la tasa de fees sin necesidad de reconstruir el block template.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;eventos&quot;&gt;Eventos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sv25.adoptingbitcoin.org&#x2F;es&quot;&gt;Adopting Bitcoin 2025 - San Salvador&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitfest.uk&#x2F;&quot;&gt;Bitfest 2025 - Manchester&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;formacion&quot;&gt;Formación&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;noticias&quot;&gt;Noticias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.bullbitcoin.com&#x2F;blog&#x2F;bull-by-bull-bitcoin&quot;&gt;Lanzamiento de BULL Wallet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;vulnerabilidades&quot;&gt;Vulnerabilidades&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;repositorios-prs-issues&quot;&gt;Repositorios, PRs, Issues...&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;BIP-0003: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;j4_toD-ofEc&quot;&gt;Mailing list&lt;&#x2F;a&gt; - &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1820&quot;&gt;PR#1820&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recursos&quot;&gt;Recursos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;10&#x2F;24&#x2F;&quot;&gt;Bitcoin Optech Newsletter #377&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;10&#x2F;31&#x2F;&quot;&gt;Bitcoin Optech Newsletter #378&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;11&#x2F;07&#x2F;&quot;&gt;Bitcoin Optech Newsletter #379&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Seminario Socrático #1</title>
+        <published>2025-10-21T00:00:00+00:00</published>
+        <updated>2025-10-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bitdevsmadrid.github.io/socratic-seminar-1/"/>
+        <id>https://bitdevsmadrid.github.io/socratic-seminar-1/</id>
+        
+        <content type="html" xml:base="https://bitdevsmadrid.github.io/socratic-seminar-1/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00hs Bienvenida&lt;br &#x2F;&gt;
+18:30hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin&lt;br &#x2F;&gt;
+20:00hs Cierre&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacion&quot;&gt;Ubicación&lt;&#x2F;h3&gt;
+&lt;p&gt;El evento se organiza en Jamón Market, C&#x2F; Alcántara 14 Madrid&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncios&quot;&gt;Anuncios&lt;&#x2F;h3&gt;
+&lt;p&gt;Un especial agradecimiento a nuestro sponsor &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; por las bebidas y a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;jamonmarket.es&#x2F;&quot;&gt;Jamón Market&lt;&#x2F;a&gt; por el espacio.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No se permiten fotografías, vídeos o grabaciones de audio&lt;&#x2F;li&gt;
+&lt;li&gt;Nos adherimos a &quot;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;the Chatham House Rule&lt;&#x2F;a&gt;&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;Deja el espacio del encuentro tan limpio como lo encontraste.&lt;&#x2F;li&gt;
+&lt;li&gt;Sugiere temas para el siguiente Seminario Socrático! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;¿Donde encontrar temas para futuros seminarios?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;&quot;&gt;utxo.live&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcointreasuries.net&#x2F;&quot;&gt;bitcointreasuries.net&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;stratum.work&#x2F;&quot;&gt;stratum.work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin-data.github.io&#x2F;non-standard-transactions&#x2F;&quot;&gt;non standard txs dataset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;mining-pools-centralization-index-with-proxy-pools&#x2F;?c&quot;&gt;mining centralization index&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temas&quot;&gt;Temas&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;f3r10&quot;&gt;@f3r10&lt;&#x2F;a&gt; nos hablará de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-dev-project&#x2F;sim-ln&quot;&gt;sim-ln&lt;&#x2F;a&gt;, una herramienta que permite simular y analizar la actividad de pagos en Lightning Network para pruebas, evaluación del protocolo y generación de datos realistas.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;YO8ZwnG_ISs&quot;&gt;[BIP Proposal] Limit ScriptPubkey Size &amp;gt;= 520 Bytes Consensus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;6XZX93ZaUh0&quot;&gt;Theoretical limitations on embedding data in the UTXO set&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;multichannel-and-multiptlc-towards-a-global-high-availability-consistent-partition-tolerant-database-for-bitcoin-payments&#x2F;1983&quot;&gt;MultiChannel and MultiPTLC: Towards A Global High-Availability Consistent&#x2F;Partition-Tolerant Database For Bitcoin Payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;El problema de la centralización en la minería de Bitcoin.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pakovm.substack.com&#x2F;p&#x2F;ark-and-the-train-analogy-a-guide&quot;&gt;Ark and the train analogy: A Guide to understanding Bitcoin’s railway system&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;eventos&quot;&gt;Eventos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;7.tabconf.com&#x2F;&quot;&gt;Tabconf 7&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;labitconf.com&#x2F;&quot;&gt;LABITCONF&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;formacion&quot;&gt;Formación&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;noticias&quot;&gt;Noticias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;tropicsquare&#x2F;status&#x2F;1975260178728517809&quot;&gt;TROPIC01 - Elemento Seguro OSS de Tropic Square&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1970612483867255173&quot;&gt;BIP 321 reemplaza a BIP21&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinnews.com&#x2F;legal&#x2F;us-seized-127k-btc-lubian-prince-group&#x2F;&quot;&gt;127,000 BTC Seizure: DOJ Might Have Cracked the Private Keys&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;CashuBTC&#x2F;status&#x2F;1978853994635117043&quot;&gt;Bitcoin for Signal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;vulnerabilidades&quot;&gt;Vulnerabilidades&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;eclipsing-bitcoin-nodes-with-bgp-interception-attacks&#x2F;1965&quot;&gt;Eclipsing Bitcoin Nodes with BGP Interception Attacks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;repositorios-prs-issues&quot;&gt;Repositorios, PRs, Issues...&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;30.0&#x2F;&quot;&gt;Bitcoin Core v30.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33453&quot;&gt;bitcoin#22453 - docs: Undeprecate datacarrier and datacarriersize configuration options&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sparrowwallet&#x2F;sparrow&#x2F;releases&#x2F;tag&#x2F;2.3.0&quot;&gt;Sparrow Wallet 2.3.0 - BIP353 HRNs &amp;amp; Silent Payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recursos&quot;&gt;Recursos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;10&#x2F;10&#x2F;&quot;&gt;Bitcoin Optech Newsletter #375&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;10&#x2F;17&quot;&gt;Bitcoin Optech Newsletter #376&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Seminario Socrático #0</title>
+        <published>2025-09-15T00:00:00+00:00</published>
+        <updated>2025-09-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bitdevsmadrid.github.io/socratic-seminar-0/"/>
+        <id>https://bitdevsmadrid.github.io/socratic-seminar-0/</id>
+        
+        <content type="html" xml:base="https://bitdevsmadrid.github.io/socratic-seminar-0/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00hs Bienvenida&lt;br &#x2F;&gt;
+18:30hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin&lt;br &#x2F;&gt;
+19:45hs Cierre&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacion&quot;&gt;Ubicación&lt;&#x2F;h3&gt;
+&lt;p&gt;El evento se organiza en Madrid Innovation Lab, C&#x2F; Bravo Murillo 39.&lt;&#x2F;p&gt;
+&lt;p&gt;Instrucciones para llegar:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Accede al patio en el que se ve al fondo la iglesia.&lt;&#x2F;li&gt;
+&lt;li&gt;Camina del lado izquierdo de los soportales (con la igulesia de frente) hasta la segunda entrada a la izquierda.&lt;&#x2F;li&gt;
+&lt;li&gt;Gira a la izquierda y camina hasta el fondo de la calle.&lt;&#x2F;li&gt;
+&lt;li&gt;Gira nuevamente a la izquierda y verás la entrada al centro de Madrid International Lab.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;anuncios&quot;&gt;Anuncios&lt;&#x2F;h3&gt;
+&lt;p&gt;Estamos muy felices de introducir nuestro primer &lt;a href=&quot;&#x2F;about&quot;&gt;Seminario Socrático&lt;&#x2F;a&gt;!
+Un especial agradecimiento a nuestro sponsor &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; por las bebidas y a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;milmadrid.es&#x2F;&quot;&gt;Madrid Innovation Lab&lt;&#x2F;a&gt; por la sala.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No se permiten fotografías, vídeos o grabaciones de audio&lt;&#x2F;li&gt;
+&lt;li&gt;Nos adherimos a &quot;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;the Chatham House Rule&lt;&#x2F;a&gt;&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;Deja el espacio del encuentro tan limpio como lo encontraste.&lt;&#x2F;li&gt;
+&lt;li&gt;Sugiere temas para el siguiente Seminario Socrático! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;¿Donde encontrar temas para futuros seminarios?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;&quot;&gt;utxo.live&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcointreasuries.net&#x2F;&quot;&gt;bitcointreasuries.net&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;stratum.work&#x2F;&quot;&gt;stratum.work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin-data.github.io&#x2F;non-standard-transactions&#x2F;&quot;&gt;non standard txs dataset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;mining-pools-centralization-index-with-proxy-pools&#x2F;?c&quot;&gt;mining centralization index&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temas&quot;&gt;Temas&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;eventos&quot;&gt;Eventos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;wobitcoin.org&#x2F;&quot;&gt;Watch Out, Bitcoin! 2025&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;formacion&quot;&gt;Formación&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;b4os.dev&#x2F;&quot;&gt;B4OS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;post-quantum&quot;&gt;Post-Quantum&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pq-bitcoin.org&#x2F;posts&#x2F;bitcoin-qva-1&quot;&gt;Quantifying Bitcoin&#x27;s Quantum Vulnerability - Part 1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;quantumrekt.com&#x2F;top100&quot;&gt;Top 100 Quantum Rekt Wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;uEaf4bj07rE&quot;&gt;A Post Quantum Migration Proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;minimum-relay-feerate&quot;&gt;Minimum Relay Feerate&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;changing-the-minimum-relay-feerate&#x2F;1886&quot;&gt;Changing the minimum relay feerate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33106&quot;&gt;#33106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2025&#x2F;06&#x2F;06&#x2F;relay-statement&#x2F;&quot;&gt;Bitcoin Core development and transaction relay policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;noticias&quot;&gt;Noticias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;provable-cryptography-for-bitcoin-an-introduction-workbook&#x2F;1974&quot;&gt;Provable cryptography workbook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;vulnerabilidades&quot;&gt;Vulnerabilidades&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;jdstaerk.substack.com&#x2F;p&#x2F;we-just-found-malicious-code-in-the&quot;&gt;Anatomy of a Billion-Download NPM Supply-Chain Attack&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;repositorios-prs-issues&quot;&gt;Repositorios, PRs, Issues...&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;v30.0-Release-Notes-Draft&quot;&gt;Bitcoin Core 30.0rc1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sparrowwallet&#x2F;frigate&quot;&gt;Nuevo indexador Electrum de Sparrow Wallet con escaneo de Silent Payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diybitcoinhardware&#x2F;embit&#x2F;pull&#x2F;102&quot;&gt;embit#102 - [New Feature] Add BIP-353 support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;SeedSigner&#x2F;seedsigner&#x2F;pull&#x2F;798&quot;&gt;seedsigner#798 - [Feature] Add BIP-353 proof validation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recursos&quot;&gt;Recursos&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin Optech Newsletter &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;08&#x2F;29&#x2F;&quot;&gt;#369&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitcoin Optech Newsletter &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;09&#x2F;05&#x2F;&quot;&gt;#370&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitcoin Optech Newsletter &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2025&#x2F;09&#x2F;12&#x2F;&quot;&gt;#371&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
