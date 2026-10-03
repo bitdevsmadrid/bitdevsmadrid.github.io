@@ -31,7 +31,7 @@ TBD
 - ¿Es viable minar? Aunque [la recompensa de los bloques decae](https://mempool.space/graphs/mining/block-rewards#all) en número de Bitcoins, el valor fiat se mantiene o incluso incrementa.
 
 ##### Wallets
-- BDK #2246 y #2263 mejoran la clasificación del balance de una wallet al comprobar la ascendencia de transacciones no confirmadas de cada output.
+- BDK [#2246](https://github.com/bitcoindevkit/bdk/pull/2246) y [#2263](https://github.com/bitcoindevkit/bdk/pull/2263) mejoran la clasificación del balance de una wallet al comprobar la ascendencia de transacciones no confirmadas de cada output.
 - Una [vulnerabilidad en el firmware de ColdCard](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/) permite a los atacantes robar el dinero a varios usuarios.
 - *Curiosidad*: [Utilización de la desintegración de isótopos radiactivos, que generan las partículas alfa y rayos gamma, procedentes de un detector de humo para generar entropía.](https://x.com/DocumentingBTC/status/2085754712314306692)
 - Armin Sabouri publica una [matriz de similitudes](https://arminsabouri.github.io/walletfingerprints.info/) para diferentes Wallets del ecosistema. Esta busca extender el trabajo hecho hace unos años por [Ishaana](https://ishaana.com/blog/wallet_fingerprinting/).
